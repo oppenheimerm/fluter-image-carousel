@@ -1,6 +1,11 @@
-# flutter_image_carousel
+# Flutter image carousel
 
-A new Flutter application.
+Flutter UI component.
+
+
+##  Links
+
+- [Dribble link(https://dribbble.com/shots/5358373-Profile-Screen-of-Food-Truck-App/attachments)
 
 ## Getting Started
 
